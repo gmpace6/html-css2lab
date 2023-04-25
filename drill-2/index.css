@@ -1,0 +1,64 @@
+#box1 {
+    height: 27vh;
+    width: 98vw;
+    background-color: transparent;
+    border: solid;
+    border-color: black;
+    /* position: relative; */
+    top: 1vh;
+    margin-left: auto;
+    margin-right: auto;
+    display:flex;
+    gap: 30px;
+}
+
+#circle1 {
+  height: 180px;
+  width: 180px;
+  background-color: lightblue;
+  border-radius: 100%;
+  /* position: relative;
+  top: 0vh;
+  left: 60vw; */
+}
+
+#greenbox {
+    height: 20vh;
+    width: 30vw;
+    background-color: green;
+    /* position: relative; */
+}
+
+#purplebox {
+    height: 15vh;
+    width: 4vw;
+    background-color: purple;
+    /* position: relative; */
+    margin-top: 10vh;
+    margin-left: 1vw;
+}
+
+#box2 {
+    height: 27vh;
+    width: 98vw;
+    background-color: transparent;
+    border: dotted;
+    border-color: black;
+    position: relative;
+    top: 5vh;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#box3 {
+    height: 27vh;
+    width: 50vw;
+    background-color: transparent;
+    border: solid;
+    border-color: lightgray;
+    box-shadow: .3vw .3vw .3vw lightgray;
+    position: relative;
+    top: 10vh;
+    margin-left: auto;
+    margin-right: auto;
+}

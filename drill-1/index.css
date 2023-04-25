@@ -1,0 +1,9 @@
+body {
+    background-image: url('./first.png');
+    background-size: cover;
+}
+.box {
+    height: 1525px;
+    width: 50px;
+    background-color: transparent;
+}
